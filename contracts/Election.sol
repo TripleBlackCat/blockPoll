@@ -1,6 +1,6 @@
 pragma solidity ^ 0.4.17;
 contract Election {
-
+	//Testing 
     string temp;
     mapping (address => int) public votingRoll;
     address[] public voters;
